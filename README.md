@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhanya-krishnan2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...any kind of chanllenges on full stack development
+- 🌱 I’m currently learning ...so many new features as well as the things new to me as well
+- 💞️ I’m looking to collaborate on .. .open source projects where needs lots of contribution.
 - 📫 How to reach on linked throgh this link 
 https://www.linkedin.com/in/dhankrish/
 and mygithub link is https://github.com/Dhanya-krishnan2
